@@ -6,6 +6,7 @@ text to speech on norns using [flite](https://github.com/festvox/flite)
 ### controls:
 - text input from keyboard
 - e2 selects voice
+- e3 ___
 - k2 plays text
 - k3 stops playback
 
@@ -13,6 +14,8 @@ text to speech on norns using [flite](https://github.com/festvox/flite)
 - [ ] load text from file
 - [ ] flite speed / pitch params 
     - could also use mpv flags for this
+        - tried mpv, now try flite
+- [ ] only show params text on screen if they are adjusted (or dim when inactive?)
 - [ ] text cursor 
 - [ ] movement keys
 - [ ] scroll display if text extends below visible area
@@ -20,6 +23,7 @@ text to speech on norns using [flite](https://github.com/festvox/flite)
 - [ ] loop audio option
 
 #### archive:
+- [x] make ascii and info blocks functions so I can reuse them easier later
 - [x] text wrapping
 - [x] add voices / selection encoder
 - [x] working prototype
