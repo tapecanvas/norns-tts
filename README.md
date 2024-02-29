@@ -12,7 +12,7 @@ text to speech on norns using [flite](https://github.com/festvox/flite)
 
 ### todo:
 - [ ] load text from file
-- [ ] read through "synthetic speech and vocals" lines thread
+- [ ] read through [synthetic speech and vocals](https://llllllll.co/t/synthetic-speech-and-vocals/30466) lines thread
 - [ ] flite speed / pitch params 
     - could also use mpv flags for this
         - tried mpv, now try flite
