@@ -5,10 +5,11 @@ text to speech on norns using [flite](https://github.com/festvox/flite)
 
 ### controls:
 - text input from keyboard
-- e2 selects voice
-- e3 ___
-- k2 plays text
-- k3 stops playback
+- e1 change voice
+- e2 change pitch
+- e3 change speed
+- k2 stop playback
+- k3 play text
 
 ### todo:
 - [ ] increase text line spacing
